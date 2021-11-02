@@ -1,6 +1,3 @@
-# diaTardeNoite
-
-
 <h1 align="center">
 
 **Projeto Hora do Dia**
@@ -17,7 +14,7 @@
 ## 🚀 Sobre o projeto
 
 <p>Nesse projeto, desenvolvi uma aplicação com alguns métodos do Javascript.</p>
-<p>Trata-se de um exercício pratico do curso de Javascript do Curso em Vídeo, conteúdo disponível no Youtube.</p>
+<p>Trata-se de um exercício pratico do curso de Javascript do Curso em Vídeo, conteúdo disponível no <a href="https://www.youtube.com/watch?v=UXSWgnbSHxs&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=20"> Youtube </a>.</p>
 
 
 ## 🛠️ Tecnologias Utilizadas
